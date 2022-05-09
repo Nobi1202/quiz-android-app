@@ -37,7 +37,8 @@
         android:text="Hey, Congratulations"
         android:textColor="@android:color/white"
         android:textSize="25sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
 
     <TextView
         android:id="@+id/tv_name"
